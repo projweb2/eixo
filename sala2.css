@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+body {
+  height: auto;
+  width: auto;
+  background-color: hsla(211, 57%, 60%, 0.384);
+}
